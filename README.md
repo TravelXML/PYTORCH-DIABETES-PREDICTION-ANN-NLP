@@ -27,8 +27,7 @@ This repository showcases the creation of an Artificial Neural Network (ANN) usi
    - [Confusion Matrix Visualization](#12-confusion-matrix-visualization)
    - [Accuracy Calculation](#13-accuracy-calculation)
 6. [Results](#results)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
+
 
 ## Project Overview
 
